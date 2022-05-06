@@ -1,0 +1,17 @@
+#atividade 06
+
+#Calcule e apresente o produto entre 10*50
+
+#apresente duas soluções
+
+print(10 * 50)
+
+multiplicação = 10 * 50
+
+print(multiplicação)
+a = 10
+b = 50
+
+print(a * b)
+
+print(10 * b)
