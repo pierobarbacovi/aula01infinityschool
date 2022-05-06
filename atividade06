@@ -1,1 +1,12 @@
+apresentação = "Meu nome é Piero Barbacovi"
+conquista = "e esse é meu primeiro print em tela!"
+
+print(apresentação, conquista)
+
+parte1 = "Meu nome é"
+nome = "Piero Barbacovi"
+parte2 = "e esse é meu primeiro print em tela!"
+
+print(parte1, nome, parte2)
+
 print("Meu nome é Piero Barbacovi e esse é meu primeiro print em tela!")
