@@ -13,3 +13,4 @@ print((8 + 9 + 7) / 3)
 print(soma / 3)
 
 print(média)
+
