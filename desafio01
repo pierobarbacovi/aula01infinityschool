@@ -1,0 +1,14 @@
+'''Desafio 01 - utilizando os conhecimentos da aula de hoje,
+gere o CPF 677.116.960-00'''
+
+parte1 = "677"
+parte2 = "116"
+parte3 = "960"
+parte4 = "00"
+
+print(parte1, parte2, parte3, sep=".", end="-")
+print(parte4)
+
+ou 
+
+print(parte1, parte2, parte3, sep=".", end="-"+parte4)
