@@ -1,0 +1,16 @@
+'''Atividade 10
+Peça dois números ao usuário e mostre os resultados de uma calculadora básica'''
+
+num1 = float(input("Escreva um número: "))
+num2 = float(input("Escreva outro número: "))
+
+soma = num1 + num2
+subtração = num1 - num2
+multiplicação = num1 * num2
+divisão = num1 / num2
+
+
+print("o resultado da adição é ", soma)
+print("o resultado da subtração é ", subtração)
+print("o resultado da multiplicação é ", multiplicação)
+print("o resultado da divisão é ", divisão)
