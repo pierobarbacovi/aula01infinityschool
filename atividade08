@@ -1,11 +1,15 @@
-'''atividade07
-
-calcule e apresente a média entre os números 7, 8 e 9'''
-
 a = 8
 b = 9
 c = 7
 
+soma = 8 + 9 + 7
+
+média = soma / 3
+
 print((a + b + c) / 3)
 
 print((8 + 9 + 7) / 3)
+
+print(soma / 3)
+
+print(média)
