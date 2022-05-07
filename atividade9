@@ -1,13 +1,13 @@
 '''Refaça o programa das médias, agora com 4 notas, pedindo as notas para o usuário
 e, por fim, mostre o resultado em tela'''
 
-nota1 = int(input("Insira a nota do primeiro bimestre: "))
-nota2 = int(input("Insira a nota do segundo bimestre: "))
-nota3 = int(input("Insira a nota do terceiro bimestre: "))
-nota4 = int(input("Insira a nota do quarto bimestre: "))
+nota1 = float(input("Insira a nota do primeiro bimestre: "))
+nota2 = float(input("Insira a nota do segundo bimestre: "))
+nota3 = float(input("Insira a nota do terceiro bimestre: "))
+nota4 = float(input("Insira a nota do quarto bimestre: "))
 
 soma = nota1 + nota2 + nota3 + nota4
 
 média = soma / 4
 
-print(média)
+print("A sua média é", média)
