@@ -1,6 +1,6 @@
 '''Peça o nome e sobrenome do usuário e mostre em tela'''
 
-nome = str(input("Escreva seu nome:"))
-sobrenome = str(input("Me diga seu sobrenome:"))
+nome = str(input("Escreva seu nome: "))
+sobrenome = str(input("Me diga seu sobrenome: "))
 
 print(nome, sobrenome)
